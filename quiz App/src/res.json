@@ -1,0 +1,125 @@
+{
+    "response_code":0,
+    "results":[
+       {
+          "category":"Science: Computers",
+          "type":"multiple",
+          "difficulty":"hard",
+          "question":"The Harvard architecture for micro-controllers added which additional bus?",
+          "correct_answer":"Instruction",
+          "incorrect_answers":[
+             "Address",
+             "Data",
+             "Control"
+          ]
+       },
+       {
+          "category":"Science: Computers",
+          "type":"multiple",
+          "difficulty":"hard",
+          "question":"The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+          "correct_answer":"Micronesia",
+          "incorrect_answers":[
+             "Fiji",
+             "Tuvalu",
+             "Marshall Islands"
+          ]
+       },
+       {
+          "category":"Science: Computers",
+          "type":"multiple",
+          "difficulty":"hard",
+          "question":"Which of these names was an actual codename for a cancelled Microsoft project?",
+          "correct_answer":"Neptune",
+          "incorrect_answers":[
+             "Enceladus",
+             "Pollux",
+             "Saturn"
+          ]
+       },
+       {
+          "category":"Science: Computers",
+          "type":"multiple",
+          "difficulty":"hard",
+          "question":"Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+          "correct_answer":"Heartbleed",
+          "incorrect_answers":[
+             "Shellshock",
+             "Corrupted Blood",
+             "Shellscript"
+          ]
+       },
+       {
+          "category":"Science: Computers",
+          "type":"multiple",
+          "difficulty":"hard",
+          "question":"What is the name of the process that sends one qubit of information using two bits of classical information?",
+          "correct_answer":"Quantum Teleportation",
+          "incorrect_answers":[
+             "Super Dense Coding",
+             "Quantum Entanglement",
+             "Quantum Programming"
+          ]
+       },
+       {
+          "category":"Science: Computers",
+          "type":"multiple",
+          "difficulty":"hard",
+          "question":"America Online (AOL) started out as which of these online service providers?",
+          "correct_answer":"Quantum Link",
+          "incorrect_answers":[
+             "CompuServe",
+             "Prodigy",
+             "GEnie"
+          ]
+       },
+       {
+          "category":"Science: Computers",
+          "type":"multiple",
+          "difficulty":"hard",
+          "question":"What internet protocol was documented in RFC 1459?",
+          "correct_answer":"IRC",
+          "incorrect_answers":[
+             "HTTP",
+             "HTTPS",
+             "FTP"
+          ]
+       },
+       {
+          "category":"Science: Computers",
+          "type":"multiple",
+          "difficulty":"hard",
+          "question":"Which of these is not a key value of Agile software development?",
+          "correct_answer":"Comprehensive documentation",
+          "incorrect_answers":[
+             "Individuals and interactions",
+             "Customer collaboration",
+             "Responding to change"
+          ]
+       },
+       {
+          "category":"Science: Computers",
+          "type":"multiple",
+          "difficulty":"hard",
+          "question":"What does the International System of Quantities refer 1024 bytes as?",
+          "correct_answer":"Kibibyte",
+          "incorrect_answers":[
+             "Kylobyte",
+             "Kilobyte",
+             "Kelobyte"
+          ]
+       },
+       {
+          "category":"Science: Computers",
+          "type":"multiple",
+          "difficulty":"hard",
+          "question":"What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?",
+          "correct_answer":"Transport",
+          "incorrect_answers":[
+             "Session",
+             "Data link",
+             "Network"
+          ]
+       }
+    ]
+ }
